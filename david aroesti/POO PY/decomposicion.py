@@ -24,3 +24,5 @@ class Motor:
 
     def inyecta_gasolina(self, cantidad)
     pass
+
+
